@@ -32,6 +32,9 @@ LINQ sorguları ile veriler doğrudan veritabanından çekilerek anlık olarak g
 Bu form, finansal karar alma süreçlerini hızlandırmak için tasarlanmıştır.
 </p>
 
+<img width="799" height="451" alt="{C43CFBFA-43A6-45A7-ACCD-F35898645769}" src="https://github.com/user-attachments/assets/49c327b5-cbd7-4a0a-9f87-39114a775aa7" />
+
+
 <h2>🏛️ FrmBanks (Bankalar)</h2>
 <p>
 Bu form, sistemde tanımlı olan tüm banka hesaplarını listeler ve yönetim işlemlerine olanak tanır. 
@@ -40,6 +43,9 @@ Kullanıcı yeni banka ekleme, düzenleme veya silme işlemlerini kolayca gerçe
 Ayrıca, form üzerinden bankalar arası işlem geçişleri de sağlanır. 
 Finansal akışın temelini oluşturan bu modül, tüm parasal hareketlerin başlangıç noktasını temsil eder.
 </p>
+
+<img width="802" height="452" alt="{BDCBB1FF-A929-42A3-A3B9-24A08CF95354}" src="https://github.com/user-attachments/assets/63b25ee8-c506-4aaa-8764-9a77fe89b908" />
+
 
 <h2>💸 FrmBanksTransactions (Banka İşlemleri)</h2>
 <p>
@@ -50,6 +56,9 @@ Arayüz, işlem filtreleme ve sıralama özellikleriyle finansal analizi kolayla
 Şeffaf bir işlem geçmişi sunarak, kullanıcıya hesap kontrolü sağlar.
 </p>
 
+<img width="800" height="450" alt="{5FEB8746-D019-43D5-93AA-AA243433D2BB}" src="https://github.com/user-attachments/assets/2b8ce9b5-a667-49e7-8b24-df21b6fb50ca" />
+
+
 <h2>🧾 FrmBilling (Faturalar)</h2>
 <p>
 Faturalama formu, müşteri veya tedarikçilere ait tüm faturaları yönetmek için kullanılır. 
@@ -58,6 +67,9 @@ Kullanıcı yeni fatura ekleyebilir, mevcut faturaları güncelleyebilir veya si
 Bu form, gelir–gider dengesi üzerinde doğrudan etkili olan verileri düzenli tutmayı hedefler. 
 Finansal kayıtların düzenli takibi için uygulamanın önemli parçalarından biridir.
 </p>
+
+<img width="799" height="451" alt="{4EE7AC80-03F7-45CA-9A28-F638D1DFBF9E}" src="https://github.com/user-attachments/assets/9fe85e26-0060-4e8c-9129-09de7c1b0e3a" />
+
 
 <h2>🗂️ FrmCategories (Kategoriler)</h2>
 <p>
@@ -68,6 +80,9 @@ Kategoriler, tüm sistemde dinamik olarak diğer formlarda kullanılır.
 Basit ama finansal düzenin temelini oluşturan bir modüldür.
 </p>
 
+<img width="800" height="450" alt="{DF47E189-D114-4CE3-8DF2-F0DA461A924A}" src="https://github.com/user-attachments/assets/b89e2660-f98c-41b1-a954-8ad185cc92c6" />
+
+
 <h2>💰 FrmExpenses (Giderler)</h2>
 <p>
 Bu form, şirketin yaptığı tüm harcamaları detaylı şekilde listeler. 
@@ -76,6 +91,8 @@ Kullanıcı gider ekleme, düzenleme ve silme işlemlerini doğrudan bu form üz
 Veriler Entity Framework ile veritabanına kaydedilir ve Dashboard’da toplam gider verisine yansıtılır. 
 Bu form, finansal planlama ve tasarruf analizlerinde kilit rol oynar.
 </p>
+
+<img width="801" height="452" alt="{0962E5F1-312D-4CE2-B609-2545493D952B}" src="https://github.com/user-attachments/assets/43e52b6f-e376-4166-8b9a-f29cf40cf6bf" />
 
 <h2>⚙️ FrmSettings (Ayarlar)</h2>
 <p>

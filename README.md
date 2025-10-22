@@ -20,6 +20,9 @@ Başarılı girişten sonra sistem doğrudan Dashboard’a yönlendirir.
 Kullanıcı deneyimini sade ve hızlı tutacak şekilde tasarlanmıştır.
 </p>
 
+<img width="801" height="450" alt="{B2904B7A-E206-4064-9901-551AFF149C7F}" src="https://github.com/user-attachments/assets/cfd9ed1e-8f27-4f45-a10d-70a816bc5f1e" />
+
+
 <h2>📊 FrmDashboard (Kontrol Paneli)</h2>
 <p>
 Dashboard formu, kullanıcıya sistemin genel finansal durumunu hızlı bir bakışla sunar. 

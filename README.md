@@ -102,3 +102,6 @@ Kullanıcı dostu arayüzü sayesinde kişisel ihtiyaçlara göre özelleştirme
 Ayrıca, veritabanı bağlantı bilgileri gibi teknik ayarlar da bu form üzerinden yönetilebilir. 
 Uygulamanın esnek ve sürdürülebilir yapısının temel taşlarından biridir.
 </p>
+
+<img width="800" height="449" alt="{023D2016-57AF-4627-895B-7CE2CC12FD00}" src="https://github.com/user-attachments/assets/c949c2a6-371e-4218-b6f7-e3c0091d3326" />
+
